@@ -1,0 +1,4 @@
+2024-02-05 11:25:39 - Student ID: 1, Name: Alice, Total Marks: 450, Grade: B, Mentor: Anjali
+2024-02-05 11:25:39 - Student ID: 2, Name: Bob, Total Marks: 400, Grade: C, Mentor: Kaviya
+2024-02-05 11:25:39 - Student ID: 3, Name: Charlie, Total Marks: 430, Grade: C, Mentor: Anjali
+2024-02-05 12:30:24 - Student ID: 10, Name: harsha, Total Marks: 412, Grade: C, Mentor: Kalai
